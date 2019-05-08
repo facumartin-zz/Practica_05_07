@@ -5,7 +5,7 @@ body{
 nav{
 float:left;
 width: 200px;
-
+border-right-color: black;
 }
 main{
   float:right;
