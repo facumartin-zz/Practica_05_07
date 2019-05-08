@@ -1,12 +1,33 @@
+body{
+  width:900px;
 
+}
 nav{
 float:left;
 width: 200px;
 
 }
+main{
+  float:right;
+}
+
 div {
   border-bottom: 1px;
-  width:200px;
-  float:right;
+  overflow:hidden;
+}
+img{
+  height: 128px;
+}
 
+footer{
+  background-color: grey;
+  overflow: hidden;
+}
+footer img{
+  padding-left: 10px;
+  float:left;
+}
+
+footer nav{
+   float: right ;
 }
